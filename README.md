@@ -2,7 +2,7 @@
 Path Tracer desenvolvido para a primeira edição do Code Fest do IC-UFAL
 
 ![Imagem de exemplo](/imgs/Exemplo.jpg "Imagem de Exemplo")  
-Cena 3D renderizada com o código presente em [main.cpp][1]
+* Cena 3D renderizada com o código presente em [main.cpp][1]
 
 [1]: https://github.com/jVictorSA/pathTracer/blob/main/main.cpp/ "Title"
 
@@ -43,9 +43,17 @@ Para quaisquer dúvidas entre em contato: jvsa@ic.ufal.br
 
 ### Imagens de exemplo
 ![Imagem de exemplo 2](/imgs/imagem3.jpg "Imagem de Exemplo 2")  
+* Cena 3D renderizada com o código presente em [imagem3.cpp][2]
 
+[2]: https://github.com/jVictorSA/pathTracer/blob/main/imagem3.cpp/ "Title"
 
 ![Imagem de exemplo 3](/imgs/imagem1.jpg "Imagem de Exemplo 3")  
+* Cena 3D renderizada com o código presente em [imagem1.cpp][3]
 
+[3]: https://github.com/jVictorSA/pathTracer/blob/main/imagem1.cpp/ "Title"
 
 ![Imagem de exemplo 4](/imgs/imagem2.jpg "Imagem de Exemplo 4")  
+* Cena 3D renderizada com o código presente em [imagem2.cpp][4]
+
+[4]: https://github.com/jVictorSA/pathTracer/blob/main/imagem2.cpp/ "Title"
+
